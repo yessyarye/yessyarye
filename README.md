@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yessy</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Yessy Arye</h1>
+<h3 align="center">A passionate Full Stack developer from Indonesia</h3>
 <image align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2b5d39e6cee1e0bbb1315d2ffc758aa65dfb9001df597d452cd8f7df1b2ddb8a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yessyarye&label=Profile%20views&color=0e75b6&style=flat" alt="yessyarye" /> </p>
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yessy-arye-yustraini-59595a308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yessy-arye-yustraini-59595a308" height="30" width="40" /></a>
-<a href="https://instagram.com/yessyarye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yessy arye" height="30" width="40" /></a>
+<a href="https://instagram.com/yessyarye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yessyarye" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
