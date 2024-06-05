@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.JS, Laravel, HTML CSS, Codeigniter**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **yessyarye@gmail.com**
 
