@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **yessyarye@gmail.com**
 
-- ⚡ Fun fact **I like to learn about coding**
+- ⚡ Fun fact **I like to learn about coding and I love cats😻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
