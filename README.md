@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yessyarye&show_icons=true&locale=en" alt="yessyarye" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yessyarye&" alt="yessyarye" /></p>
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/668b894d501413692be20849?variant=dark" alt="roadmap.sh"/></a>
